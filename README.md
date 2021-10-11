@@ -12,4 +12,4 @@ Use "Import" option to import the zip file which was downloaded in step 1.
 
 ## Deployment help
 Steps for importing the solution and configuring the flows is available in the following link.
-[Integration with Microsoft Power Automate](http://cltcvuehelps/CNS/22/Admin/Content/AllOrCommon/Common%20Topics/Integration/MicrosoftPowerAutomate/p_TOCIntegrationPowerAutomate.htm?tocpath=Configure%7CIntegrate%20Products%7CIntegration%20with%20Microsoft%20Power%20Automate%7C_____0) 
+[Integration with Microsoft Power Automate](https://help.campusmanagement.com/CNS/22.0/AdminHelp/Content/AllOrCommon/Common%20Topics/Integration/MicrosoftPowerAutomate/p_TOCIntegrationPowerAutomate.htm?tocpath=Configure%7CIntegrate%20Products%7CIntegration%20with%20Microsoft%20Power%20Automate%7C_____0) 
